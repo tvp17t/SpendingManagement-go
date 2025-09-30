@@ -1,0 +1,17 @@
+{
+  "source_root": "/mnt/data/SpendingManagement-main",
+  "output_root": "/mnt/data/SpendingManagement-go",
+  "dart_files_converted": 101,
+  "examples": [
+    "lib/firebase_options.go",
+    "lib/main.go",
+    "lib/constants/app_colors.go",
+    "lib/constants/app_styles.go",
+    "lib/constants/list.go",
+    "lib/constants/function/extension.go",
+    "lib/constants/function/find_index.go",
+    "lib/constants/function/get_data_spending.go",
+    "lib/constants/function/get_date.go",
+    "lib/constants/function/list_categories.go"
+  ]
+}
