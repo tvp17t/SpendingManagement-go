@@ -1,3 +1,2 @@
-samples/js/**           -linguist-vendored linguist-language=JavaScript
-samples/web/**          -linguist-vendored
-samples/cpp/**          -linguist-vendored linguist-language=C++
+*      linguist-vendored
+*.go   -linguist-vendored linguist-detectable=true linguist-language=Go
