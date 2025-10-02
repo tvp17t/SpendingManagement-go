@@ -1,0 +1,16 @@
+ios/**               linguist-vendored
+android/**           linguist-vendored
+**/*.pbxproj         linguist-generated
+**/*.xib             linguist-generated
+**/*.storyboard      linguist-generated
+**/*.xcassets/**     linguist-vendored
+**/*.cmake           linguist-vendored
+CMakeLists.txt       linguist-vendored
+cmake/**             linguist-vendored
+**/*.cpp             linguist-vendored
+**/*.c               linguist-vendored
+**/*.h               linguist-vendored
+**/*.hpp             linguist-vendored
+**/*.swift           linguist-vendored
+*.go                 linguist-detectable=true
+*.go                 linguist-language=Go
