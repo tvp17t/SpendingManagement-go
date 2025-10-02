@@ -1,2 +1,2 @@
-*      linguist-vendored
-*.go   -linguist-vendored linguist-detectable=true linguist-language=Go
+*       linguist-vendored
+*.go    -linguist-vendored linguist-language=Go linguist-detectable=true
